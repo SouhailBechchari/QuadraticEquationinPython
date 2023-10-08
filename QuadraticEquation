@@ -9,5 +9,5 @@ if delta == 0 :
 if delta > 0 :
    x1 = (-b + delta ** 0.5) / (2*a)
    x2 = (-b - delta ** 0.5) / (2*a)
-   print( "L'équation a deux solutions réelles : x1 =", x1, "et x2 =", x2)
+   print( "L'Ã©quation a deux solutions rÃ©elles : x1 =", x1, "et x2 =", x2)
     
